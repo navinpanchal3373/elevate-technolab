@@ -1,0 +1,20 @@
+{
+  "name": "elevate-technolab",
+  "version": "1.0.0",
+  "description": "Elevate Technolab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navinpanchal3373/elevate-technolab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navinpanchal3373/elevate-technolab/issues"
+  },
+  "homepage": "https://github.com/navinpanchal3373/elevate-technolab#readme"
+}
